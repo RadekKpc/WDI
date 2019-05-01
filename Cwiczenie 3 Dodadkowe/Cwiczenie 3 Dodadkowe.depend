@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540651444 source:c:\users\radek\documents\codeblock\cwiczenie 3 dodadkowe\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+

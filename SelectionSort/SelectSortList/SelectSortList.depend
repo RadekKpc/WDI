@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551304615 source:c:\users\radek\documents\codeblock\selectionsort\selectsortlist\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

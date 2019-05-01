@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544566510 source:c:\users\radek\documents\codeblock\testy\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
